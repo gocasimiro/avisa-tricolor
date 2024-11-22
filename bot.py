@@ -31,25 +31,27 @@ def bot():
     encontrado = False
 
     opcoes_setores = [
-        "  [0] - Arquibancada Norte Oreo - Inteira",
-        "  [1] - Arquibancada Leste Lacta - Meia",
-        "  [2] - Arquibancada Leste Lacta - Inteira",
-        "  [3] - Arquibancada Sul Diamante Negro - Meia",
-        "  [4] - Arquibancada Sul Diamante Negro - Inteira",
-        "  [5] - Arquibancada Visitante Ouro Branco - Meia",
-        "  [6] - Arquibancada Visitante Ouro Branco - Inteira",
-        "  [7] - Cadeira Superior Norte Oreo - Inteira",
-        "  [8] - Cadeira Superior Sul Diamante Negro - Meia",
-        "  [9] - Cadeira Superior Sul Diamante Negro - Inteira",
-        "  [10] - Cadeira Especial Oeste Ouro Branco - Especial Meia",
-        "  [11] - Cadeira Especial Oeste Ouro Branco - Especial Inteira",
-        "  [12] - Cadeira Térrea Oeste Ouro Branco - Meia",
-        "  [13] - Cadeira Térrea Oeste Ouro Branco - Inteira",
-        "  [14] - Camarote Corporativo SPFC - Único",
-        "  [15] - Camarote dos Ídolos - Único"
+        "  [0] - Arquibancada Norte Oreo - Meia",
+        "  [1] - Arquibancada Norte Oreo - Inteira",
+        "  [2] - Arquibancada Leste Lacta - Meia",
+        "  [3] - Arquibancada Leste Lacta - Inteira",
+        "  [4] - Arquibancada Sul Diamante Negro - Meia",
+        "  [5] - Arquibancada Sul Diamante Negro - Inteira",
+        "  [6] - Arquibancada Visitante Ouro Branco - Meia",
+        "  [7] - Arquibancada Visitante Ouro Branco - Inteira",
+        "  [8] - Cadeira Superior Norte Oreo - Inteira",
+        "  [9] - Cadeira Superior Sul Diamante Negro - Meia",
+        "  [10] - Cadeira Superior Sul Diamante Negro - Inteira",
+        "  [11] - Cadeira Especial Oeste Ouro Branco - Especial Meia",
+        "  [12] - Cadeira Especial Oeste Ouro Branco - Especial Inteira",
+        "  [13] - Cadeira Térrea Oeste Ouro Branco - Meia",
+        "  [14] - Cadeira Térrea Oeste Ouro Branco - Inteira",
+        "  [15] - Camarote Corporativo SPFC - Único",
+        "  [16] - Camarote dos Ídolos - Único"
     ]
 
     dicionario_setores = [
+        "ARQUIBANCADA NORTE OREO - Meia",
         "ARQUIBANCADA NORTE OREO - Inteira",
         "ARQUIBANCADA LESTE LACTA - Meia",
         "ARQUIBANCADA LESTE LACTA - Inteira",
