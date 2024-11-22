@@ -199,4 +199,3 @@ def bot():
 
 bot()
 
-# !TO-DO: Rodar a página escolhida para fazer o scrap e pegar o link do botão de compra certo
